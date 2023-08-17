@@ -1,0 +1,14 @@
+{
+  "name": "practice-to-net-error",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "client": "node index.mjs",
+    "serve": "node server.mjs"
+  },
+  "author": "kurone-kito <krone@kit.black> (https://kit.black/)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.3"
+  }
+}
